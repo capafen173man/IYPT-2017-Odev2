@@ -23,8 +23,8 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
-# Giriş (Introduction)
+ıslak bir havlu bir yüzeye vurulduğunda çatlıyormuş gibi bir ses çukarır.Bu sorudada bizden bu etkiyi ve biri ıslak biri kuru olan iki havludan ıslak olanın bir yüzeye vurulduğunda neden daha fazla ses çıkardığınız araştırmamız isteniyor.ıslak havlunun bu deneyde çıkardığı sesin nedeni kırbaç gibi davranmasıdır.Bu bilgi projemiz için kırbaç,kuru havlu ve ıslak havlu değişkenleriyle yapılabilecek deneyler yaratıyor,araştırmamızı kırbacın hareketibe yönlendirmemizi sağlıyor.Kırbacın yüzeye vurulmasındaki sesin bu kadar güçlü çıkması ise kırbacın ses duvarını aşma özelliğinden kaynaklanır.Kırbacın çıkardığı bu ses savrulma anında kendi ettafında katlanması sonucu yarattığı dalgalanma hareketi ile oluşur.Bu dalga kırbacın uzunluğu boyunca ilerler ve yapısı uca doğru inceldiği için giderek hızlanır.Böylece savrulma anından 10 kat daha hızlı bir şekilde uç noktaya ulaşıp şaklama sesi duyulduğunda ses duvarı aşılmış olur.
+# Giriş (Introduction) 
 Bu bölüm; 
 literatür
 taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
