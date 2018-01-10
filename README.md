@@ -24,28 +24,14 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 
 # Özet (Abstract)
 ıslak bir havlu bir yüzeye vurulduğunda çatlıyormuş gibi bir ses çukarır.Bu sorudada bizden bu etkiyi ve biri ıslak biri kuru olan iki havludan ıslak olanın bir yüzeye vurulduğunda neden daha fazla ses çıkardığınız araştırmamız isteniyor.ıslak havlunun bu deneyde çıkardığı sesin nedeni kırbaç gibi davranmasıdır.Bu bilgi projemiz için kırbaç,kuru havlu ve ıslak havlu değişkenleriyle yapılabilecek deneyler yaratıyor,araştırmamızı kırbacın hareketibe yönlendirmemizi sağlıyor.Kırbacın yüzeye vurulmasındaki sesin bu kadar güçlü çıkması ise kırbacın ses duvarını aşma özelliğinden kaynaklanır.Kırbacın çıkardığı bu ses savrulma anında kendi ettafında katlanması sonucu yarattığı dalgalanma hareketi ile oluşur.Bu dalga kırbacın uzunluğu boyunca ilerler ve yapısı uca doğru inceldiği için giderek hızlanır.Böylece savrulma anından 10 kat daha hızlı bir şekilde uç noktaya ulaşıp şaklama sesi duyulduğunda ses duvarı aşılmış olur.
-# Giriş (Introduction) 
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
-# Materyal ve Yöntem (Experimental Setup)
+# Giriş (Introduction)
+Daha öncede belirttiğimiz gibi soruda bizden biri ıslak biri kuru olan havluların yüzeye vurulduğunda ıslak olanın neden daha fazla ses çıkardığını araştırmamız isteniyor.Bizim deneyimizdrki amacımıcda ilk olarak bu fenomeni doğrulamak deneyin ilerleyen kısımlarındada bu fenomene etki edebilecek değişkenler üzerinde durmaktır.İnternette yaptığımız bazı araşturmalar sonucunda bu sesin havlunun kırbaç gibi davranmasından kaynaklandığını öğrendik.Kırbaçın bu sedi çıkarmasıda kırbaçın ses fuvrını aşmasından kaynaklanır.Ses duvarı;havada ses hızıyka yada ona yakın bir hızla hareket eden bir cismin oluşturduğu aerodinamik olayların tümüdür.Kırbaçda vurulduğu andan itibaren yca doğru hızlanarak şaklama sesi duyulduğunda ses duvarını aşar.Yapılan diğer araştırmaları incelediğimizde çoğu deneyin kırbaç ile yapıldığını fark ettik.Havlu ile yapılan deneyler olsa da bu deneylerdede ıslak ve kuru havlu birbiri ile karşılaştırılmamış ve bu fenomenin değişkenleri üzerinde durulmamıştı.Bizim araştırmamızı diğer araştırmalardan farklı kılan yön de burada ortaya çıkıyor.Biz ıslak ve kuru havlu arasındaki sesi karşıaştıracak ve en öenmlisi bu olayın değişkenleri üzerinde de duracağız.Her ne kadar farklılıklar olsada bu araştırmalardan da yararlandık.Bu araştırmalar bizim havluyu kırbaçla özdeştirmemizi ve bu sesin çıkma nedenini kavramamızı sağladı.
+KAYNAKÇA
+1-https://youtu.be/SGGi7AqEvrY
+2-https://youtu.be/ZNlyKSPhsvc
+3-https://youtu.be/cVpr9ufcMOI
+4-https://youtu.be/CPe0NmNwx4Q
+# Materyal ve Yöntem (Experimental Setup
 
 Bu bölümde aşağıdaki kısımla
 ra ve alt başlıklara yer verilir
