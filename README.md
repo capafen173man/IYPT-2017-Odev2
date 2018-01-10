@@ -49,7 +49,7 @@ Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapac
 Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
 
 
-# Sonuç ve Tartışma (Conclusion and Discussion) 
+# Sonuç ve Tartışma (Conclusion and Discussion) z
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
 
 
