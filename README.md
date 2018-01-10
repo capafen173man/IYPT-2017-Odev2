@@ -23,9 +23,9 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Islak bir havlu bir yüzeye vurulduğunda çatlıyormuş gibi bir ses çıkarır. Bu soruda da bizden bu etkiyi ve biri ıslak biri kuru olan iki havludan ıslak olanın bir yüzeye vurulduğunda neden daha fazla ses çıkardığınız araştırmamız isteniyor.ıslak havlunun bu deneyde çıkardığı sesin nedeni kırbaç gibi davranmasıdır.Bu bilgi projemiz için kırbaç,kuru havlu ve ıslak havlu değişkenleriyle yapılabilecek deneyler yaratıyor,araştırmamızı kırbacın hareketibe yönlendirmemizi sağlıyor.Kırbacın yüzeye vurulmasındaki sesin bu kadar güçlü çıkması ise kırbacın ses duvarını aşma özelliğinden kaynaklanır.Kırbacın çıkardığı bu ses savrulma anında kendi ettafında katlanması sonucu yarattığı dalgalanma hareketi ile oluşur.Bu dalga kırbacın uzunluğu boyunca ilerler ve yapısı uca doğru inceldiği için giderek hızlanır.Böylece savrulma anından 10 kat daha hızlı bir şekilde uç noktaya ulaşıp şaklama sesi duyulduğunda ses duvarı aşılmış olur.
+ıslak bir havlu bir yüzeye vurulduğunda çatlıyormuş gibi bir ses çukarır.Bu sorudada bizden bu etkiyi ve biri ıslak biri kuru olan iki havludan ıslak olanın bir yüzeye vurulduğunda neden daha fazla ses çıkardığınız araştırmamız isteniyor.ıslak havlunun bu deneyde çıkardığı sesin nedeni kırbaç gibi davranmasıdır.Bu bilgi projemiz için kırbaç,kuru havlu ve ıslak havlu değişkenleriyle yapılabilecek deneyler yaratıyor,araştırmamızı kırbacın hareketibe yönlendirmemizi sağlıyor.Kırbacın yüzeye vurulmasındaki sesin bu kadar güçlü çıkması ise kırbacın ses duvarını aşma özelliğinden kaynaklanır.Kırbacın çıkardığı bu ses savrulma anında kendi ettafında katlanması sonucu yarattığı dalgalanma hareketi ile oluşur.Bu dalga kırbacın uzunluğu boyunca ilerler ve yapısı uca doğru inceldiği için giderek hızlanır.Böylece savrulma anından 10 kat daha hızlı bir şekilde uç noktaya ulaşıp şaklama sesi duyulduğunda ses duvarı aşılmış olur.
 # Giriş (Introduction)
-Daha öncede belirttiğimiz gibi soruda bizden biri ıslak biri kuru olan havluların yüzeye vurulduğunda ıslak olanın neden daha fazla ses çıkardığını araştırmamız isteniyor. Bizim deneyimizdeki amacımıcda ilk olarak bu fenomeni doğrulamak deneyin ilerleyen kısımlarında da bu fenomene etki edebilecek değişkenler üzerinde durmaktır.İnternette yaptığımız bazı araşturmalar sonucunda bu sesin havlunun kırbaç gibi davranmasından kaynaklandığını öğrendik.Kırbaçın bu sesi çıkarması da kırbaçın ses duvarını aşmasından kaynaklanır.Ses duvarı;havada ses hızıyla yada ona yakın bir hızla hareket eden bir cismin oluşturduğu aerodinamik olayların tümüdür.Kırbaçda vurulduğu andan itibaren uca doğru hızlanarak şaklama sesi duyulduğunda ses duvarını aşar.Yapılan diğer araştırmaları incelediğimizde çoğu deneyin kırbaç ile yapıldığını fark ettik.Havlu ile yapılan deneyler olsa da bu deneylerde de ıslak ve kuru havlu birbiri ile karşılaştırılmamış ve bu fenomenin değişkenleri üzerinde durulmamıştı.Bizim araştırmamızı diğer araştırmalardan farklı kılan yön de burada ortaya çıkıyor.Biz ıslak ve kuru havlu arasındaki sesi karşılaştıracak ve en öenmlisi bu olayın değişkenleri üzerinde de duracağız.Her ne kadar farklılıklar olsada bu araştırmalardan da yararlandık.Bu araştırmalar bizim havluyu kırbaçla özdeştirmemizi ve bu sesin çıkma nedenini kavramamızı sağladı.
+Daha öncede belirttiğimiz gibi soruda bizden biri ıslak biri kuru olan havluların yüzeye vurulduğunda ıslak olanın neden daha fazla ses çıkardığını araştırmamız isteniyor.Bizim deneyimizdrki amacımıcda ilk olarak bu fenomeni doğrulamak deneyin ilerleyen kısımlarındada bu fenomene etki edebilecek değişkenler üzerinde durmaktır.İnternette yaptığımız bazı araşturmalar sonucunda bu sesin havlunun kırbaç gibi davranmasından kaynaklandığını öğrendik.Kırbaçın bu sedi çıkarmasıda kırbaçın ses fuvrını aşmasından kaynaklanır.Ses duvarı;havada ses hızıyka yada ona yakın bir hızla hareket eden bir cismin oluşturduğu aerodinamik olayların tümüdür.Kırbaçda vurulduğu andan itibaren yca doğru hızlanarak şaklama sesi duyulduğunda ses duvarını aşar.Yapılan diğer araştırmaları incelediğimizde çoğu deneyin kırbaç ile yapıldığını fark ettik.Havlu ile yapılan deneyler olsa da bu deneylerdede ıslak ve kuru havlu birbiri ile karşılaştırılmamış ve bu fenomenin değişkenleri üzerinde durulmamıştı.Bizim araştırmamızı diğer araştırmalardan farklı kılan yön de burada ortaya çıkıyor.Biz ıslak ve kuru havlu arasındaki sesi karşıaştıracak ve en öenmlisi bu olayın değişkenleri üzerinde de duracağız.Her ne kadar farklılıklar olsada bu araştırmalardan da yararlandık.Bu araştırmalar bizim havluyu kırbaçla özdeştirmemizi ve bu sesin çıkma nedenini kavramamızı sağladı.
 KAYNAKÇA
 1-https://youtu.be/SGGi7AqEvrY
 2-https://youtu.be/ZNlyKSPhsvc
@@ -33,38 +33,21 @@ KAYNAKÇA
 4-https://youtu.be/CPe0NmNwx4Q
 # Materyal ve Yöntem (Experimental Setup
 
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
+Çalışma yöntemimiz, deneysel yöntemdir. Sabit tutulan değişken havludur, bağımlı değişken havlu yüzeye çarptığında çıkan ses miktarı, bağımsız değişken havlunun ıslak veya kuru olmasıdır.
+Araştırma desenimiz tecrübidir.
+Çalışma grubumuz, evrenimiz, örneklemimiz yok.
+Çalışma sahamız okul.
+Gözlemimiz havlu ıslak iken kuru olduğu haline oranla daha fazla ses çıkarır.
+Saha çalışmamız, etnografik saha çalışmasıdır.
+Verileri analiz etmek için, deneyi yaparken kameraya aldık. Bu iki deneyde çıkan ses miktarını kamera sayesinde dinleyip belirledik.
+Deney malzememiz, havlu.
 
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
 
 # Bulgular (Results)
-Projemizin başlangıç deneyi, herhangi bir benzer davranış gösteren materyal yerine deneyde adı geçen materyali gözlemlememiz oldu. Bunun için deney sorumuzdaki havlunun kırbaç gibi davranması olayını görmezden gelerek yalnızca havluyu ele aldık, sıradan bir havlunun kuru halinin ve ıslak halinin bir yüzeye vurulmasında çıkan sesleri karşılaştırdık. 
-En basit haliyle havlu kuruyken daha az ve yumuşak ses çıkartıyor, ıslandığında sert ve yüksek bir ses oluşturuyordu. Deneyimizdeki sonuçlar da beklenilenin aynısıydı. Vuruş şekli ve vurulan yüzey gibi değişkenlere takılmadan yaptığımız uygulama beklenen sonucu verdi. Fakat bu deney yalnızca havlunun  etkisini gözlemlememize, fenomene daha yakından bakıp fikir yürütmemize yardımcı oldu. Yürüttüğümüz fikirler ve önerilen değişkenlerle yapılacak diğer deneylerden önce bu gözlemde bulunmamız bizim için olumlu bir başlangıçtı. Deney sırasındaki genel yaklaşımımız ise projeye eğlence kattı diyebiliriz.
+Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
+
+Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
 Burasını doldurmaya görek yoktur. Daha sonraki ödevin konusun olacaktır. 
